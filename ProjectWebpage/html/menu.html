@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Essex | Menus</title>
+    <!--Font awesome CDN-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
+    <!--Scroll reveal CDN-->
+    <script src="https://unpkg.com/scrollreveal"></script>
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+
+    <link rel="stylesheet" href="../css/main_v2.css">
+</head>
+<!--Begin Body-->
+<body class="">
+<header> <!--Nav Bar-->
+  <div class="container">
+    <nav class="nav" id="nav">
+      <div class="menu-toggle">
+        <i class="fas fa-bars"></i>
+        <i class="fas fa-times"></i>
+      </div>
+      <a href="index_v2.html" class="logo"><img src=../img/EssexOnly.png alt="Logo"></a> <!--Top/Center Logo Image Here-->
+      <ul class="nav-list">
+        <li class="nav-item">
+          <a href="index_v2.html" class="nav-link active">Home</a>
+        </li>
+        <li class="nav-item">
+          <a href="menu.html" class="nav-link">Menu</a>
+        </li>
+        <li class="nav-item">
+          <a href="events.html" class="nav-link">Events</a>
+        </li>
+        <li class="nav-item">
+          <a href="reservations.html" class="nav-link">Reservations</a>
+        </li>
+        <li class="nav-item">
+          <a href="contact.html" class="nav-link">Contact</a>
+      </ul>
+    </nav>
+  </div>
+</header>
+<!--End Header/Nav Menu-->
+<!--Re-using Styling-->
+<section class="discover-our-menu">
+  <div class="container">
+    <div class="restaurant-info">
+      <div class="img-group padding-right anim-left">
+        <img src="../img/menu_group1.jpg" alt="Cocktails">
+        <img src="../img/menu_group2.jpg" alt="Lamb Chop Lollipops">
+        <img src="../img/menu_group3.jpg" alt="Short Rib Tacos">
+        <img src="../img/menu_group4.jpg" alt="Crafting Cocktails">
+      </div>
+      <div class="restaurant-desc anim-right">
+        <div class="global-headline">
+          <h2 class="sub-headline">
+            <span class="first-letter">V</span>iew
+          </h2>
+          <h1 class="headline headline-dark">The Menus</h1>
+          <div class="asterisk"><i class="fas fa-asterisk"></i></div>
+        </div>
+        <p> <!--Menu Blurb-->
+          At Essex, we’re known for our outstanding world cuisine as
+          well as a variety of fresh seafood and hand cut meat. We
+          strive to offer our guests an elegant yet trendy experience, all
+          available in the heart of Uptown Charlotte.
+        </p>
+        <!--Buttons for Viewing Menus-->
+          <span href="#" class="btn body-btn" title="lunchMenu" id="lunch">View Lunch Menu</span><br><br>
+          <span href="#" class="btn body-btn" title="dinnerMenu" id="dinner">View Dinner Menu</span>
+      </div>
+
+    </div>
+    <!--Div for the menu update to appear-->
+    <div id="menus"></div>
+    <p class="disclaimer"><em>*These items are served using raw or undercooked ingredients. Consuming raw or undercooked meats,
+      poultry, shellfish, or eggs may increase your risk of food-borne illness. Especially, if you have
+      certain medical conditions.</em></p>
+  </div>
+</section>
+<!--Begin Footer-->
+<footer>
+  <div class="container">
+    <div class="back-to-top">
+      <a href="#nav"><i class="fas fa-chevron-up"></i></a>
+    </div>
+    <div class="footer-content">
+      <div class="footer-content-about anim-top">
+        <h4>About Essex</h4>
+        <div class="asterisk"><i class="fas fa-asterisk"></i></div>
+        <p>
+          We are dedicated to providing our guests with the very finest
+          quality cuisine, exceptional service and genuine hospitality
+          at our extraordinary locations and award-winning restaurants
+          in the Carolina's. We invite you and your family to come dine
+          with us and experience the label hospitality difference at one
+          of our restaurants.
+        </p>
+      </div>
+      <div class="footer-content-divider anim-bottom">
+        <div class="social-media">
+          <h4>Follow Us</h4>
+          <ul class="social-icons">
+            <li>
+              <a href="https://www.facebook.com/essexcharlotte/" target="_blank"><i class="fab fa-facebook-square"></i></a>
+            </li>
+            <li>
+              <a href="https://www.instagram.com/essexcharlotte/" target="_blank"><i class="fab fa-instagram"></i></a>
+            </li>
+            <li>
+              <a href="https://www.yelp.com/biz/essex-bar-and-bistro-charlotte" target="_blank"><i class="fab fa-yelp"></i></a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+<!--End Footer-->
+
+
+
+<script src="../js/main_v2.js"></script>
+<script src="../js/lunch.js"></script>
+<script src="../js/dinner.js"></script>
+</body>
+</html>

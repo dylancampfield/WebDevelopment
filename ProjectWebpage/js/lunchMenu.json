@@ -1,0 +1,72 @@
+{"Lunch": [
+  {
+    "item": "Hummus",
+    "price": "11",
+    "description": "chickpeas, harissa, olive oil, garlic naan; add shawarma or chicken shawarma for an additional $3"
+  },
+  {
+    "item": "Fried Cauliflower",
+    "price": "14",
+    "description": "chickpea tempura, curry sauce, tamarind glaze, herb tomato sauce, candied pecans"
+  },
+  {
+    "item": "Falafel",
+    "price": "13",
+    "description": "chickpeas, garlic, onion, parsley, cilantro, Mediterranean mix, tahini, harissa"
+  },
+  {
+    "item": "Essex Dip Trio",
+    "price": "13",
+    "description": "pimento cheese, guacamole, feta-yogurt, garlic naan"
+  },
+  {
+    "item": "Bang Bang Grouper",
+    "price": "17",
+    "description": "fresh Murrell’s Inlet grouper, spicy mayo, scallions, Szechuan sauce sesame seeds, kim-chi glaze"
+  },
+  {
+    "item": "Fried Artichokes",
+    "price": "14",
+    "description": "Fried artichokes, Greek yogurt, balsamic glaze, arugula, parmesan, almonds"
+  },
+  {
+    "item": "Tomato Basil Soup",
+    "price": "5 / 7",
+    "description": ""
+  },
+  {
+    "item": "Soup Du Jour",
+    "price": "5 / 7",
+    "description": ""
+  },
+  {
+    "item": "Greek Salad",
+    "price": "10",
+    "description": "tomatoes, cucumbers, romaine, feta, vinegar, olive oil, kalamata olives, zaatar"
+  },
+  {
+    "item": "Ginger Stir Fried Wedge",
+    "price": "12",
+    "description": "stir fried chicken, candied pecans, water chestnuts,, tomatoes, shiitake mushrooms, wonton chips,, ginger dressing"
+  },
+  {
+    "item": "Arugula & Brussel Salad",
+    "price": "12",
+    "description": "Arugula, shaved brussel sprouts, manchego cheese,, dried blueberries, chopped almonds, candied bacon,, lemon vinaigrette"
+  },
+  {
+    "item": "Salmon Sandwich",
+    "price": "16",
+    "description": "grilled salmon, house-made tartar sauce, arugula, roasted tomatoes, brioche bun"
+  },
+  {
+    "item": "Shawarma Pita",
+    "price": "13",
+    "description": "choice of chicken or beef shawarma, red cabbage slaw, tahini, harissa, house-made pocket pita"
+  },
+  {
+    "item": "Chicken Brie L’T",
+    "price": "13",
+    "description": "grilled chicken breast, candied bacon, brie spread, roasted tomato, arugula, on brioche bread"
+  }
+]}

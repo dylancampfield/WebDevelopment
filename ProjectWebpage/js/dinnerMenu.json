@@ -1,0 +1,197 @@
+{"Dinner":[
+  {
+    "item": "Falafel",
+    "price": "13",
+    "description": "chickpeas, garlic, onion, parsley, cilantro, Mediterranean mix, tahini, harissa"
+  },
+  {
+    "item": "Veggie Spring Roll",
+    "price": "13",
+    "description": "cabbage, carrots, mushrooms, scallions, sweet chili sauce"
+  },
+  {
+    "item": "Samosa Bites",
+    "price": "14",
+    "description": "potatoes, carrots, peas, onion, cilantro, asian tamarind glaze "
+  },
+  {
+    "item": "Essex Dip Trio",
+    "price": "13",
+    "description": "pimento cheese, guacamole, feta-yogurt, garlic naan"
+  },
+  {
+    "item": "Hummus",
+    "price": "13",
+    "description": "chickpeas, garlic, Essex baguette"
+  },
+  {
+    "item": "Zucchini Crisps",
+    "price": "13",
+    "description": "breaded zucchini crisps over feta yogurt"
+  },
+  {
+    "item": "Fried Artichokes",
+    "price": "14",
+    "description": "Fried artichokes, Greek yogurt, balsamic glaze,, arugula, parmesan, almonds"
+  },
+
+  {
+    "item": "Tomato Basil Soup",
+    "price": "5 / 7",
+    "description": ""
+  },
+  {
+    "item": "Soup Du Jour",
+    "price": "5 / 7",
+    "description": ""
+  },
+  {
+    "item": "Greek Salad",
+    "price": "10",
+    "description": "tomatoes, cucumbers, romaine, feta, vinegar, olive oil, kalamata olives, zaatar"
+  },
+  {
+    "item": "Ginger Stir Fried Wedge",
+    "price": "12",
+    "description": "stir fried chicken, candied pecans, water chestnuts,, tomatoes, shiitake mushrooms, wonton chips,, ginger dressing"
+  },
+  {
+    "item": "Arugula & Brussel Salad",
+    "price": "12",
+    "description": "Arugula, shaved brussel sprouts, manchego cheese,, dried blueberries, chopped almonds, candied bacon,, lemon vinaigrette"
+  },
+  {
+    "item": "Asian Chicken Salad",
+    "price": "12",
+    "description": "napa cabbage, cashews, peanuts, candied pecans, avocado, asian vinaigrette, tamarind sauce, wonton chips, micro cilantro"
+  },
+  {
+    "item": "Warm Brussel Sprout Caesar",
+    "price": "12",
+    "description": "grilled chicken, house-made croutons, parmesan, asiago caesar dressing"
+  },
+  {
+    "item": "Roasted Beet Salad",
+    "price": "15",
+    "description": "arugula, candied pecans, feta-yogurt, shaved parmesan,, Sherry vinaigrette"
+  },
+
+  {
+    "item": "Butter Chicken",
+    "price": "14",
+    "description": "shredded chicken, cheese, cilantro, queso fresco"
+  },
+  {
+    "item": "Vegetable",
+    "price": "14",
+    "description": "white sauce, mozzarella sauce, brussels sprouts, roasted red peppers, grilled red onions"
+  },
+  {
+    "item": "Essex Margherita",
+    "price": "12",
+    "description": "tomato sauce, mozzarella, basil, oven-roasted tomato"
+  },
+  {
+    "item": "Sausage Bacon Ham",
+    "price": "14",
+    "description": "tomato sauce, mozzarella, herb ricotta, sausage, bacon, ham"
+  },
+
+  {
+    "item": "Salmon Sandwich",
+    "price": "16",
+    "description": "grilled salmon, house-made tartar sauce, arugula, roasted tomatoes, brioche bun"
+  },
+  {
+    "item": "Shawarma Pita",
+    "price": "13",
+    "description": "choice of chicken or beef shawarma, red cabbage slaw, tahini, harissa, house-made pocket pita"
+  },
+  {
+    "item": "Chicken Brie L’T",
+    "price": "13",
+    "description": "grilled chicken breast, candied bacon, brie spread, roasted tomato, arugula, on brioche bread"
+  },
+  {
+    "item": "*Pimento Cheese Burger",
+    "price": "14",
+    "description": "pimento cheese, crispy onions, brioche bun"
+  },
+  {
+    "item": "*Bacon & Brie Burger",
+    "price": "13",
+    "description": "bacon jam, brie, arugula, brioche bun"
+  },
+  {
+    "item": "*Lamb Kefta Sandwich",
+    "price": "13",
+    "description": "house-ground lamb & beef blend, hummus, harissa, on a house made bun"
+  },
+  {
+    "item": "Falafel Pita",
+    "price": "11",
+    "description": "house made pocket pita, red cabbage slaw, tahini, harissa"
+  },
+  {
+    "item": "Buffalo Chicken Sandwich",
+    "price": "14",
+    "description": "fried chicken, honey buffalo sauce, dill pickle,, mayo, slaw, brioche bun"
+  },
+  {
+    "item": "Philly Cheesesteak",
+    "price": "15",
+    "description": "sliced steak, onions & peppers, four cheese sauce,, hoagie roll"
+  },
+
+  {
+    "item": "Fish Tacos",
+    "price": "12",
+    "description": "blackened grouper, tomatillo salsa, red pepper salsa avocado, mousse, micro cilantro, queso fresco"
+  },
+  {
+    "item": "Short Rib Tacos",
+    "price": "12",
+    "description": "tomatillo salsa, red pepper salsa, avocado mousse, micro cilantro, queso fresco"
+  },
+  {
+    "item": "Korean BBQ Shrimp Tacos",
+    "price": "12",
+    "description": "gonzo sauce, tomatillo salsa, red pepper salsa, avocado mousse, micro cilantro, queso fresco"
+  },
+  {
+    "item": "Pork Belly Tacos",
+    "price": "13",
+    "description": "kimchi, carrot & daikon slaw, micro cilantro"
+  },
+
+  {
+    "item": "Mediterranean Bowl",
+    "price": "14",
+    "description": "Durum wheat, Israeli salad, cabbage slaw, hummus, tahini. Choice or beef or chicken shawarma or falafel"
+  },
+  {
+    "item": "Scalloppine Chicken",
+    "price": "18",
+    "description": "grilled chicken breast, grilled potatoes,, seasonal vegetables, Choice of chimichurri or creamy mushroom sauce"
+  },
+  {
+    "item": "Churrasco",
+    "price": "16",
+    "description": "chimichurri sauce, hanger steak, roasted potatoes,, alfredo sauce"
+  },
+  {
+    "item": "*Grilled Salmon",
+    "price": "20",
+    "description": "mustard herb rub, grilled potatoes, carrots, creamy spinach"
+  },
+  {
+    "item": "Butter Chicken",
+    "price": "15",
+    "description": "marinated in indian spices, herb tomato sauce, choice of rice or a garlic naan"
+  },
+  {
+    "item": "Shrimp & Grits",
+    "price": "16",
+    "description": "creamy grits and shrimp, creole sauce, red peppers, andouille sausage, onions, chives, shaved parmesan"
+  }
+]}
